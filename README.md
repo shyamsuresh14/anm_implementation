@@ -1,2 +1,2 @@
-# anm_implementations
+# ANM Implementation
 C++ Implementation of some Applied Numerical Methods
